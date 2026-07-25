@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6e86528d-b07c-446d-906d-428e75c2746c" name="Changes" comment="update on 2026/07/21">
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Gaber65&quot;
+  }
+}</component>
+  <component name="GitToolBoxStore">
+    <option name="recentBranches">
+      <RecentBranches>
+        <option name="branchesForRepo">
+          <list>
+            <RecentBranchesForRepo>
+              <option name="branches">
+                <list>
+                  <RecentBranch>
+                    <option name="branchName" value="qwen" />
+                    <option name="lastUsedInstant" value="1783577179" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="main" />
+                    <option name="lastUsedInstant" value="1783577178" />
+                  </RecentBranch>
+                </list>
+              </option>
+              <option name="repositoryRootUrl" value="file://$PROJECT_DIR$" />
+            </RecentBranchesForRepo>
+          </list>
+        </option>
+      </RecentBranches>
+    </option>
+  </component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Gaber65/despacito.git&quot;,
+    &quot;accountId&quot;: &quot;748b3460-3315-4090-ad1f-aeea2d177124&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="3G9D1F2sUkIvLH2PSkX7hzcdBco" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "dart.analysis.tool.window.visible": "false",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "E:/Projcets/despacito_patisserie/assets/images",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
+    "show.migrate.to.gradle.popup": "false"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Projcets\despacito_patisserie\assets\images" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Projcets\despacito_patisserie\assets\images" />
+      <recent name="E:\Projcets\despacito_patisserie\assets\js" />
+      <recent name="E:\Projcets\despacito_patisserie" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="despacito_patisserie" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="despacito_patisserie" />
+      <option name="filePath" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="despacito_patisserie" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <module name="despacito_patisserie" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="RUN_TOOL" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-26cb7f24e5b0-intellij.indexing.shared.core-IU-253.29346.138" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6e86528d-b07c-446d-906d-428e75c2746c" name="Changes" comment="" />
+      <created>1783374676659</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1783374676659</updated>
+    </task>
+    <task id="LOCAL؜-٠٠٠٠١" summary="first commit">
+      <option name="closed" value="true" />
+      <created>1783458279419</created>
+      <option name="number" value="٠٠٠٠١" />
+      <option name="presentableId" value="LOCAL؜-٠٠٠٠١" />
+      <option name="project" value="LOCAL؜" />
+      <updated>1783458279419</updated>
+    </task>
+    <task id="LOCAL؜-٠٠٠٠٢" summary="first commit">
+      <option name="closed" value="true" />
+      <created>1783473547292</created>
+      <option name="number" value="٠٠٠٠٢" />
+      <option name="presentableId" value="LOCAL؜-٠٠٠٠٢" />
+      <option name="project" value="LOCAL؜" />
+      <updated>1783473547292</updated>
+    </task>
+    <task id="LOCAL؜-٠٠٠٠٣" summary="first commit">
+      <option name="closed" value="true" />
+      <created>1783473633614</created>
+      <option name="number" value="٠٠٠٠٣" />
+      <option name="presentableId" value="LOCAL؜-٠٠٠٠٣" />
+      <option name="project" value="LOCAL؜" />
+      <updated>1783473633614</updated>
+    </task>
+    <task id="LOCAL؜-٠٠٠٠٤" summary="first commit">
+      <option name="closed" value="true" />
+      <created>1783473668832</created>
+      <option name="number" value="٠٠٠٠٤" />
+      <option name="presentableId" value="LOCAL؜-٠٠٠٠٤" />
+      <option name="project" value="LOCAL؜" />
+      <updated>1783473668832</updated>
+    </task>
+    <task id="LOCAL؜-٠٠٠٠٥" summary="first commit">
+      <option name="closed" value="true" />
+      <created>1783539847383</created>
+      <option name="number" value="٠٠٠٠٥" />
+      <option name="presentableId" value="LOCAL؜-٠٠٠٠٥" />
+      <option name="project" value="LOCAL؜" />
+      <updated>1783539847383</updated>
+    </task>
+    <task id="LOCAL؜-٠٠٠٠٦" summary="qwen commit">
+      <option name="closed" value="true" />
+      <created>1783577188698</created>
+      <option name="number" value="٠٠٠٠٦" />
+      <option name="presentableId" value="LOCAL؜-٠٠٠٠٦" />
+      <option name="project" value="LOCAL؜" />
+      <updated>1783577188698</updated>
+    </task>
+    <task id="LOCAL؜-٠٠٠٠٧" summary="qwen commit">
+      <option name="closed" value="true" />
+      <created>1783601174371</created>
+      <option name="number" value="٠٠٠٠٧" />
+      <option name="presentableId" value="LOCAL؜-٠٠٠٠٧" />
+      <option name="project" value="LOCAL؜" />
+      <updated>1783601174371</updated>
+    </task>
+    <task id="LOCAL؜-٠٠٠٠٨" summary="qwen commit">
+      <option name="closed" value="true" />
+      <created>1783604901812</created>
+      <option name="number" value="٠٠٠٠٨" />
+      <option name="presentableId" value="LOCAL؜-٠٠٠٠٨" />
+      <option name="project" value="LOCAL؜" />
+      <updated>1783604901812</updated>
+    </task>
+    <task id="LOCAL؜-٠٠٠٠٩" summary="qwen commit">
+      <option name="closed" value="true" />
+      <created>1783633978504</created>
+      <option name="number" value="٠٠٠٠٩" />
+      <option name="presentableId" value="LOCAL؜-٠٠٠٠٩" />
+      <option name="project" value="LOCAL؜" />
+      <updated>1783633978504</updated>
+    </task>
+    <task id="LOCAL؜-٠٠٠١٠" summary="update on 2026/07/10">
+      <option name="closed" value="true" />
+      <created>1783711450759</created>
+      <option name="number" value="٠٠٠١٠" />
+      <option name="presentableId" value="LOCAL؜-٠٠٠١٠" />
+      <option name="project" value="LOCAL؜" />
+      <updated>1783711450759</updated>
+    </task>
+    <task id="LOCAL؜-٠٠٠١١" summary="update on 2026/07/21">
+      <option name="closed" value="true" />
+      <created>1784659398286</created>
+      <option name="number" value="٠٠٠١١" />
+      <option name="presentableId" value="LOCAL؜-٠٠٠١١" />
+      <option name="project" value="LOCAL؜" />
+      <updated>1784659398286</updated>
+    </task>
+    <task id="LOCAL؜-٠٠٠١٢" summary="update on 2026/07/21">
+      <option name="closed" value="true" />
+      <created>1784927124173</created>
+      <option name="number" value="٠٠٠١٢" />
+      <option name="presentableId" value="LOCAL؜-٠٠٠١٢" />
+      <option name="project" value="LOCAL؜" />
+      <updated>1784927124174</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit" />
+    <MESSAGE value="qwen commit" />
+    <MESSAGE value="update on 2026/07/10" />
+    <MESSAGE value="update on 2026/07/21" />
+    <option name="LAST_COMMIT_MESSAGE" value="update on 2026/07/21" />
+  </component>
+</project>
